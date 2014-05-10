@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Aposento Alto</string>
+    <string name="action_settings">Settings</string>
+    <string name="version">Versión: </string>
+    <string name="versionName">1.2</string>
+    <string name="ultima_actualizacion">Ultima Actualización: </string>
+    <string name="fecha_actualizacion">13 Nov. 2013</string>
+    <string name="splash_cargando">Cargando&#8230;</string>
+    
+    
+    
+    
+    
+    <!--     Numero proyecto en google api -->
+    <string name="sender_id">1017695551211</string>
+<!--     Desarrollo -->
+    <string name="key">AIzaSyDlfUsuAmqVLtTBM7NtlkNftY5hHO0UZ6E</string>
+<!--     Produccion -->
+<!--     <string name="key">NO?KEY</string> -->
+    
+    
+    <!-- Drawer -->
+    <string name="drawer_open">Menú Abierto</string>
+    <string name="drawer_close">Menú Cerrado</string>
+    
+    <!-- Login G+ -->
+    <string name="action_sign_out">Cerrar Sesión</string>
+    <string name="action_revoke">Desconectar App</string>
+    
+    <!-- Menu MAPA -->
+    <string name="main_map">Mapa</string>
+    <string name="main_preguntas">Preguntas</string>
+    
+    <!-- MAPS -->
+    <string name="usted">Usted</string>
+    <string name="save">Guardar</string>
+    <string name="cancel">Cancelar</string>
+    <string name="update">Actualizar</string>
+    <string name="delete">Eliminar</string>
+    <string name="add_iglesia">Agregar Iglesia</string>
+    <string name="nombre_sitio">Nombre del sitio</string>
+    
+    
+    
+    <!-- Perfil -->
+    <string name="puntos">Puntos:</string>
+    <string name="hacerpuntos">
+        1. Aumenta tus puntos agregando o modificando iglesias en tu ciudad.
+        \n
+        2. Aumenta tus puntos formulando preguntas. las preguntas se utilizaran para crear un juego de que tanto conoces la BIBLIA</string>
+    
+    <!-- Preguntas -->
+    <string name="preguntas_info">Formula una pregunta por 5 puntos</string>
+    <string name="preguntas_preguntas">Cual es tu Pregunta?</string>
+    <string name="preguntas_respuestas">Escriba cuatro posibles respuestas</string>
+    <string name="preguntas_respuesta1">Opción 1</string>
+    <string name="preguntas_respuesta2">Opción 2</string>
+    <string name="preguntas_respuesta3">Opción 3</string>
+    <string name="preguntas_respuesta4">Opción 4</string>
+    <string name="preguntas_correcta">Seleccione la respuesta correcta</string>
+    <string name="preguntas_enviar">Enviar</string>
+    
+    <!-- Preguntas -->
+    <string name="video_visto">Visto</string>
+    <string name="video_novisto">No Visto</string>
+    
+
+</resources>

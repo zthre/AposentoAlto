@@ -1,0 +1,16 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android" >
+     <!-- Main Never -->
+    <item
+        android:id="@+id/action_more"
+        android:icon="@drawable/ic_menu_overflow"
+        android:orderInCategory="1"
+        android:showAsAction="always">
+        <menu>
+            <item
+                android:id="@+id/action_plus_iglesia"
+                android:icon="@drawable/ic_iglesias_white"
+                android:showAsAction="never"
+                android:title="@string/add_iglesia"/>
+        </menu>
+    </item>
+</menu>

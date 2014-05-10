@@ -1,0 +1,15 @@
+<resources>
+
+    <!--
+         Customize dimensions originally defined in res/values/dimens.xml (such as
+         screen margins) for sw600dp devices (e.g. 7" tablets) here.
+    -->
+    <dimen name="text_small">18sp</dimen>
+    <dimen name="text_medium">30sp</dimen>
+    <dimen name="text_large">36sp</dimen>
+    
+    
+    <dimen name="img_large">300dp</dimen>
+    <dimen name="img_medium">225dp</dimen>
+    <dimen name="ic_small">45dp</dimen>
+</resources>

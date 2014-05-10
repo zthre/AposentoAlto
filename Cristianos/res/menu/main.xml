@@ -1,0 +1,10 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android" >
+    <item android:id="@+id/main_map"
+          android:icon="@drawable/ic_map"
+          android:title="@string/main_map"
+          android:showAsAction="ifRoom|withText" />
+    <item android:id="@+id/main_preguntas"
+          android:icon="@drawable/ic_preguntas"
+          android:title="@string/main_preguntas"
+          android:showAsAction="ifRoom|withText" />
+</menu>
