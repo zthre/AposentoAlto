@@ -1,4 +1,6 @@
 AposentoAlto
 ============
 
-Solamente para algunas personas
+Pendientes
+
+*Crear Clave Console Android Play Store
