@@ -39,7 +39,7 @@ public class Inicio extends FragmentActivity {
 		mDrawerTitle = "Menú";
 		mTitle = getTitle();
 		
-		String[] array  = new String[]{"Perfil"};
+		String[] array  = new String[]{"Perfil","Perfil"};
 		
 		mPaginaTitles = array;
 		mDrawerLayout = (DrawerLayout) findViewById(R.id.drawer_layout);

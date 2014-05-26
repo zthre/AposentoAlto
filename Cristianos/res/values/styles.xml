@@ -14,11 +14,6 @@
 
     <!-- Application theme. -->
     <style name="AppTheme" parent="AppBaseTheme">
-        <item name="android:actionBarStyle">@style/Cristianos.ActionBarStyle</item>
-    </style>
-
-    <style name="Cristianos.ActionBarStyle" parent="@android:style/Widget.Holo.ActionBar">
-        <item name="android:background">@drawable/bitmap_bg_navigation_bar</item>
     </style>
 
 </resources>
